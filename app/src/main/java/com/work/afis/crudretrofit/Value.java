@@ -9,6 +9,7 @@ public class Value {
     String value;
     String message;
 
+    //Getting
     public String getValue() {
         return value;
     }
